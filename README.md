@@ -7,6 +7,8 @@
 <a href="https://hub.docker.com/r/mxssl/tg-captcha-bot"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/mxssl/tg-captcha-bot"></a>
 
 # Telegram Captcha Bot
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Darshanjk/tg-captcha)
+
 
 Telegram bot that validates new users that enter supergroup. Validation works like a simple captcha. Bot written in Go (Golang).
 
