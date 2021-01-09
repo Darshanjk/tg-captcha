@@ -20,7 +20,7 @@ import (
 
 // Config struct for toml config file
 type Config struct {
-	ButtonText          string `mapstructure:"button_text"`
+	ButtonText          string `mapstructure:"@Tamilmoviesnkl"`
 	WelcomeMessage      string `mapstructure:"welcome_message"`
 	AfterSuccessMessage string `mapstructure:"after_success_message"`
 	AfterFailMessage    string `mapstructure:"after_fail_message"`
