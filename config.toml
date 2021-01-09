@@ -1,7 +1,7 @@
 # Config file for Telegram Captcha Bot
 
 # Button text
-button_text = "I'm not a robot!"
+button_text = "Join Our Channel Now"
 
 # Bot sends this message to new users
 welcome_message = "Hello! This is the spam protection system. Please press the button within 30 seconds or you will be banned!"
